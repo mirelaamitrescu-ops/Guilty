@@ -1,0 +1,13 @@
+{
+  "caseTitle": "State v. Tom Robinson",
+  "votes": [
+    {
+      "title": "Vote 1 · Before the Evidence",
+      "prompt": "Based only on what you know right now, how do you vote?"
+    },
+    {
+      "title": "Vote 2 · After the Evidence",
+      "prompt": "Now that you've seen the evidence, how do you vote?"
+    }
+  ]
+}

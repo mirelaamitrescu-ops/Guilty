@@ -1,0 +1,8 @@
+# Render "Blueprint": lets Render set the app up automatically from this file.
+services:
+  - type: web
+    name: jury-vote-tom-robinson
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
